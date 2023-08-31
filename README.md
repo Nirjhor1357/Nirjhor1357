@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nirjhor1357
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning Backend Development
 - 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me email: nowshinnowyalnirjhor@gmail.com
 
