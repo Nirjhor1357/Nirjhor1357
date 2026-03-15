@@ -1,16 +1,76 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nirjhor</h1>
+<h3 align="center">Mechatronics Engineering Student | Robotics & AI Enthusiast</h3>
 
-<!--
-**Nirjhor1357/Nirjhor1357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎓 Undergraduate student in **Mechatronics & Industrial Engineering at CUET**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Passionate about **Robotics, AI, Embedded Systems, and Intelligent Automation**
+
+💻 Currently building projects in **Web Development, Data Science, and Software Engineering**
+
+📚 Preparing for **research opportunities and fully funded Master's programs abroad**
+
+⚡ I love combining **hardware + software to build smart systems**
+
+---
+
+## 🚀 Current Focus
+
+- Learning **C++ for engineering and algorithms**
+- Studying **Calculus and engineering mathematics**
+- Building **portfolio projects**
+- Exploring **Data Science and AI applications**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- C++
+- Python
+- JavaScript
+
+### Web Development
+- React
+- Tailwind CSS
+- Node.js
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nirjhor1357&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirjhor1357&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Nirjhor1357&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn
+- Email
+- Portfolio Website (Coming Soon)
+
+---
+
+⭐ From [Nirjhor1357](https://github.com/Nirjhor1357)
